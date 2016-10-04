@@ -1,0 +1,35 @@
+
+.wrapp {
+    width: 974px;
+    margin: 0 auto;
+}
+
+.anchor {
+	text-decoration: none;
+	color: $first-color;
+}
+
+
+.imgHombre {
+	position: relative;
+	bottom: 22px;
+}
+.infoBox {
+    width: 327px;
+    border: 1px solid $first-color;
+    background-color: $first-color;
+    position: relative;
+    left: 579px;
+    bottom: 240px;
+}
+.allInfo {
+	padding: 10px;
+}
+
+.Boxes {
+	width: 320px;
+	position: relative;
+    bottom: 163px;
+    display: inline-block;
+    margin-left: 2px;
+}
