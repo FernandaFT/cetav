@@ -1,0 +1,30 @@
+/*Segundo Contenido*/
+.content {
+    margin-top: 20px;
+    display: $mainDisplay;
+    margin-left: 73px;
+} 
+.line {
+    border-right: 2px solid $colol-of-line;
+    float: left;
+    width: 85px;
+    height: 120px;
+    margin-bottom: -120px;
+}
+
+ .title2 {
+    display: $mainDisplay;
+    margin-left: -25px;
+    margin-bottom: 10px;
+}
+
+.space {
+    margin-left: 101px;
+}
+.title3 {
+    display: $mainDisplay;
+    margin-left: -514px;
+    position: relative;
+    left: 44px;
+    bottom: -143px;
+}

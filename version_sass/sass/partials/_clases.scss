@@ -1,0 +1,38 @@
+/*general*/
+.wrapper {
+    
+    width: 800px;
+    margin: 0 auto;
+
+}
+ /*limpiador universal*/
+ cf:after {
+    content: " "; 
+    display: table; 
+}
+
+.cf:after {
+    clear: both;
+}
+
+.cf {
+    *zoom: 1;
+}
+/*primera info*/
+.title {
+    border-bottom: 1px solid $main-color;
+    line-height: 50px;
+}
+
+.picture {
+    float: right;
+    margin-top: -86px;
+}
+
+.info {
+    font-family: $mainFontFamily;
+}
+
+.colorD {
+    color: $main-color;
+}
