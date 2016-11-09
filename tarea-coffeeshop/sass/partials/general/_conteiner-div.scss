@@ -1,62 +1,62 @@
 .wrapper {
-	width: 1280px;
-	margin: 0 auto;
+  width: 80em;
+  margin: 0 auto;
 }
 .header {
-	border-top: 10px solid $primary-color;
-	background-color:$secondary-color;
-	height: 426px;
+  border-top: 0.6em solid $primary-color;
+  background-color:$secondary-color;
+  height: 26.6em;
 }
 .infoHeader {
-	width: 415px;
-	height: 115px;
-	position: relative;
-    left: 206px;
+  width: 26em;
+  height: 72em;
+  position: relative;
+    left: 13em;
 }
 
 .infoSalud {
-	text-align: center;
-	width:  336px;
-	display: inline-block;
-    margin: 106px 0px 140px 73px;
+    text-align: center;
+    width:  21em;
+    display: inline-block;
+    margin: 6.6em 0 8.75em 4.5em;
 }
 .infoU {
-	background-color: $primary-color;
-    width: 630px;
-    height: 411px;
+    background-color: $primary-color;
+    width: 39em;
+    height: 25.6em;
     position: relative;
-    left: 649px;
-    bottom: 415px;
+    left: 40em;
+    bottom: 26em;
 }
 .infoU h3 {
-	margin: 0px 55px;
+    margin: 0 3.4em;
 }
 .infoU p {
-	color: #fff;
-	font: 16px $primary-font;
-	width: 505px;
-    margin: 38px 54px;
+    color: #fff;
+    font: 1em $primary-font;
+    width: 31.5em;
+    margin: 2.37em 3.37em;
 }
 .galeria {
-	text-align: center;
-	position: relative;
-    bottom: 310px;
+    text-align: center;
+    position: relative;
+    bottom: 19.3em;
 }
 .footer {
-	background-color: $primary-color;
-    height: 225px;
-    margin-bottom: 100px;
-    width: 1280px;
+    background-color: $primary-color;
+    height: 14em;
+    margin-bottom: 6.25em;
+    width: 80em;
     margin: 0 auto;
 }
 
 .allInfo {
-	width:  236px;
-	display: inline-block;
-	vertical-align: text-top;
-	position: relative;
-    left: 163px;
-    top: 48px;
+    width:  14.75em;
+    display: inline-block;
+    vertical-align: text-top;
+    position: relative;
+    left: 10.18em;
+    top: 3em;
 }
 
 

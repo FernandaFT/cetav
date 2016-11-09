@@ -5,15 +5,15 @@ ul {
 	display: flex;
 }
 .redondo {
-	border-radius: 34px 0px 0px 34px;
+	border-radius: 2em 0 0 2em;
 }
 .redondo1 {
-	border-radius: 0px 34px 34px 0px;
+	border-radius: 0 2em 2em 0;
 }
 .header li {
-	display: inline;
-	list-style: none;
-    font: 10px $primary-font;
+		display: inline;
+		list-style: none;
+    font: 0.6em $primary-font;
 }
 .infoHeader a{
 	color: $secondary-font-color;
@@ -23,6 +23,7 @@ ul {
 }
 .infoSalud a {
 	color: $primary-color;
-	font-size: 12px;
+	font-size: 0.75em;
 }
+
 
